@@ -19,6 +19,7 @@ Bits7seg:
 	.byte 0x00	# 8
 	.byte 0x10	# 9
 
+
 .text
 .global num2bits
 num2bits:
